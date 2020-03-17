@@ -619,6 +619,6 @@ PlayerSettings:
   projectName: TheLog
   organizationId: unity_9o-3p0clqn17ba
   cloudEnabled: 0
-  enableNativePlatformBackendsForNewInputSystem: 0
+  enableNativePlatformBackendsForNewInputSystem: 1
   disableOldInputManagerSupport: 0
   legacyClampBlendShapeWeights: 0

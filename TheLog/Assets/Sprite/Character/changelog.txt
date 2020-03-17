@@ -1,0 +1,23 @@
+- New Smooth Terrain mode, no more hindering blocks
+- Tiles should now be for buildings only
+- Body now rotates properly to surface normal
+- Add sliding mechanics
+- //Add walljump
+
+
+- Changing debug site
+
+
+- //Add "Third-class drones" as debuging dummies
+
+- //Add hovering health bar
+
+- //Add "skin menu" function
+- Add Neo samurai skin
+
+- Add "holstering" mode like in TLOZ
+- While not holstering, players can jump low run fast but can't attack or change direction with mouse
+- While holstering, players can change direction via mouse position (aim - head follow) and attack but move slowly and jump low
+- Add one-handed gun like in HLD as secondary weapon.
+- Add rolling
+- Jumping is now nerfed (finally). Players may also advance in 

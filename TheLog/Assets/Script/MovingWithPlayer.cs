@@ -5,9 +5,16 @@ using UnityEngine;
 public class MovingWithPlayer : MonoBehaviour
 {
     public GameObject target;
+    private Vector3 Distance;
 
-    void Update()
+    void Start()
     {
-        transform.position = target.transform.position;
+        Distance = transform.position - target.transform.position;
     }
+    void FixedUpdate()
+    {
+        
+        transform.position = Distance + target.transform.position;
+    }
+
 }
